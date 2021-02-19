@@ -1,0 +1,24 @@
+header {
+  text-align: center;
+}
+
+table {
+  margin-top: 50px;
+  border-collapse: collapse;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table li {
+  margin-left: -20px;
+}
+
+th {
+  text-align: left;
+}
+
+th, td {
+  border-bottom: 1px solid grey;
+  padding: 10px 20px;
+}
